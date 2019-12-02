@@ -1,0 +1,789 @@
+﻿  pch.cpp
+  dllmain.cpp
+  TestClass.cpp
+tdclient.lib(Client.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdclient.lib(Client.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(td_api.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(td_api.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Td.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Td.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Proxy.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Proxy.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(MtprotoHeader.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(MtprotoHeader.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(utils.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(utils.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NetQuery.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NetQuery.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(StateManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(StateManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(telegram_api.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(telegram_api.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DialogId.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DialogId.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(MessageEntity.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(MessageEntity.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(TermsOfService.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(TermsOfService.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Photo.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Photo.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(AnimationsManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(AnimationsManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(AudiosManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(AudiosManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(AuthManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(AuthManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(AutoDownloadSettings.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(AutoDownloadSettings.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(BackgroundManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(BackgroundManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(CallbackQueriesManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(CallbackQueriesManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(CallActor.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(CallActor.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(CallManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(CallManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(ConfigManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(ConfigManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(ConfigShared.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(ConfigShared.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DialogParticipant.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DialogParticipant.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(ContactsManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(ContactsManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DeviceTokenManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DeviceTokenManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DocumentsManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DocumentsManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileReferenceManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileReferenceManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileGcParameters.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileGcParameters.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileStats.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileStats.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NetQueryCreator.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NetQueryCreator.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Global.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Global.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Location.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Location.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(HashtagHints.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(HashtagHints.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(InlineQueriesManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(InlineQueriesManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(JsonValue.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(JsonValue.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(LanguagePackManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(LanguagePackManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Logging.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Logging.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NotificationSettings.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NotificationSettings.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(MessagesManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(MessagesManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(IStreamTransport.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(IStreamTransport.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(ConnectionCreator.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(ConnectionCreator.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NetQueryDispatcher.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NetQueryDispatcher.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NetStatsManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NetStatsManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(PublicRsaKeyShared.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(PublicRsaKeyShared.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NotificationManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NotificationManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(PasswordManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(PasswordManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Payments.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Payments.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(PhoneNumberManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(PhoneNumberManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(PollManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(PollManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(PrivacyManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(PrivacyManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SecretChatsManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SecretChatsManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SecureValue.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SecureValue.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SecureManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SecureManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(StickersManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(StickersManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(StorageManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(StorageManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(TdDb.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(TdDb.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(TopDialogManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(TopDialogManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(UpdatesManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(UpdatesManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(VideoNotesManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(VideoNotesManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(VideosManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(VideosManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(VoiceNotesManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(VoiceNotesManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(WebPagesManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(WebPagesManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Handshake.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Handshake.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(HandshakeActor.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(HandshakeActor.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NetQueryCounter.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NetQueryCounter.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(ProxySecret.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(ProxySecret.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(secret_api.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(secret_api.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(PhotoSizeSource.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(PhotoSizeSource.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileEncryptionKey.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileEncryptionKey.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Document.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Document.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NetActor.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NetActor.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SendCodeHelper.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SendCodeHelper.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(BackgroundType.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(BackgroundType.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DhHandshake.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DhHandshake.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(CallDiscardReason.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(CallDiscardReason.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DhCache.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DhCache.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(crypto.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(crypto.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Session.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Session.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Contact.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Contact.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(QueryCombiner.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(QueryCombiner.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileBitmask.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileBitmask.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileGenerateManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileGenerateManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileLoadManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileLoadManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileLoaderUtils.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileLoaderUtils.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SecureStorage.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SecureStorage.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(ReplyMarkup.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(ReplyMarkup.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(MessageContent.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(MessageContent.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Game.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Game.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(InputMessageText.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(InputMessageText.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileGcWorker.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileGcWorker.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NotificationType.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NotificationType.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DraftMessage.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DraftMessage.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SequenceDispatcher.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SequenceDispatcher.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(HttpTransport.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(HttpTransport.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(TlsReaderByteFlow.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(TlsReaderByteFlow.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(TcpTransport.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(TcpTransport.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DcOptionsSet.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DcOptionsSet.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Ping.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Ping.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(TlsInit.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(TlsInit.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(AuthDataShared.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(AuthDataShared.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DcAuthManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DcAuthManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(NetQueryDelayer.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(NetQueryDelayer.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(PublicRsaKeyWatchdog.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(PublicRsaKeyWatchdog.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SessionMultiProxy.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SessionMultiProxy.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(mtproto_api.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(mtproto_api.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(Transport.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(Transport.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SecretChatDb.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SecretChatDb.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SecretChatActor.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SecretChatActor.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileStatsWorker.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileStatsWorker.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DialogDb.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DialogDb.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileDb.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileDb.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(MessagesDb.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(MessagesDb.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(WebPageBlock.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(WebPageBlock.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(KDF.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(KDF.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(RawConnection.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(RawConnection.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(AuthData.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(AuthData.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SessionConnection.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SessionConnection.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(ResourceManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(ResourceManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileDownloader.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileDownloader.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileFromBytes.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileFromBytes.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileHashUploader.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileHashUploader.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileUploader.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileUploader.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(PingConnection.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(PingConnection.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(SessionProxy.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(SessionProxy.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(FileLoader.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(FileLoader.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(PartsManager.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(PartsManager.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdcore.lib(DelayDispatcher.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdcore.lib(DelayDispatcher.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(HttpFile.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(HttpFile.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(HttpQuery.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(HttpQuery.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(Wget.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(Wget.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(GetHostByNameActor.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(GetHostByNameActor.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(TransparentProxy.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(TransparentProxy.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(HttpChunkedByteFlow.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(HttpChunkedByteFlow.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(HttpContentLengthByteFlow.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(HttpContentLengthByteFlow.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(HttpReader.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(HttpReader.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(HttpProxy.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(HttpProxy.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(Socks5.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(Socks5.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(SslStream.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(SslStream.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(HttpConnectionBase.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(HttpConnectionBase.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdnet.lib(HttpOutboundConnection.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdnet.lib(HttpOutboundConnection.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(BinlogEvent.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(BinlogEvent.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(SqliteKeyValue.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(SqliteKeyValue.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(SqliteStatement.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(SqliteStatement.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(SqliteDb.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(SqliteDb.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(Binlog.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(Binlog.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(ConcurrentBinlog.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(ConcurrentBinlog.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(SqliteConnectionSafe.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(SqliteConnectionSafe.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(SqliteKeyValueAsync.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(SqliteKeyValueAsync.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(RawSqliteDb.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(RawSqliteDb.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(BinlogEventsBuffer.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(BinlogEventsBuffer.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tddb.lib(BinlogEventsProcessor.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tddb.lib(BinlogEventsProcessor.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdactor.lib(Scheduler.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdactor.lib(Scheduler.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdactor.lib(ConcurrentScheduler.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdactor.lib(ConcurrentScheduler.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdactor.lib(Timeout.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdactor.lib(Timeout.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdactor.lib(MultiPromise.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdactor.lib(MultiPromise.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(check.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(check.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(StackAllocator.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(StackAllocator.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(StringBuilder.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(StringBuilder.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(thread_local.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(thread_local.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(logging.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(logging.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(NativeFd.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(NativeFd.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(ThreadIdGuard.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(ThreadIdGuard.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(EventFdWindows.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(EventFdWindows.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Time.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Time.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Iocp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Iocp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(crypto.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(crypto.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Status.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Status.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(buffer.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(buffer.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(utf8.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(utf8.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(tl_parsers.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(tl_parsers.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(BigNum.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(BigNum.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(IPAddress.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(IPAddress.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(SocketFd.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(SocketFd.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Random.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Random.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(filesystem.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(filesystem.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(MimeType.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(MimeType.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(path.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(path.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Timer.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Timer.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(unicode.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(unicode.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(base64.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(base64.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(HttpUrl.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(HttpUrl.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Clocks.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Clocks.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(JsonBuilder.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(JsonBuilder.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Hints.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Hints.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Gzip.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Gzip.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Stat.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Stat.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(FileFd.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(FileFd.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(FileLog.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(FileLog.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(GzipByteFlow.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(GzipByteFlow.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(PollFlags.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(PollFlags.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(WineventPoll.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(WineventPoll.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(Slice.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(Slice.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(find_boundary.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(find_boundary.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(wstring_convert.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(wstring_convert.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(StdStreams.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(StdStreams.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(translit.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(translit.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+tdutils.lib(sleep.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в TestClass.obj
+tdutils.lib(sleep.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в TestClass.obj
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRTD" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+tdutils.lib(StdStreams.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(translit.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(PollFlags.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(WineventPoll.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(find_boundary.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(wstring_convert.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(Stat.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(FileFd.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(FileLog.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(GzipByteFlow.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(HttpUrl.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(JsonBuilder.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(Hints.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(Gzip.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(path.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(Timer.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(unicode.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(base64.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(SocketFd.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(Random.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(filesystem.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(MimeType.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(utf8.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(tl_parsers.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(BigNum.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(IPAddress.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(crypto.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(Status.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(misc.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(buffer.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(NativeFd.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(ThreadIdGuard.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(EventFdWindows.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(Iocp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(check.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(StringBuilder.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(thread_local.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(logging.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdactor.lib(Scheduler.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdactor.lib(ConcurrentScheduler.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdactor.lib(Timeout.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdactor.lib(MultiPromise.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(SqliteKeyValueAsync.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(RawSqliteDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(BinlogEventsBuffer.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(BinlogEventsProcessor.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(SqliteDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(Binlog.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(ConcurrentBinlog.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(SqliteConnectionSafe.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(HttpOutboundConnection.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(BinlogEvent.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(SqliteKeyValue.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tddb.lib(SqliteStatement.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(HttpProxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(Socks5.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(SslStream.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(HttpConnectionBase.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(TransparentProxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(HttpChunkedByteFlow.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(HttpContentLengthByteFlow.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(HttpReader.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(HttpFile.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(HttpQuery.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(Wget.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdnet.lib(GetHostByNameActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SessionProxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileLoader.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(PartsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DelayDispatcher.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileFromBytes.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileHashUploader.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileUploader.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(PingConnection.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(AuthData.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SessionConnection.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(ResourceManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileDownloader.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(MessagesDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(WebPageBlock.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(RawConnection.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Transport.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SecretChatActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileStatsWorker.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DialogDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(NetQueryDelayer.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(PublicRsaKeyWatchdog.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SessionMultiProxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(mtproto_api.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Ping.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(TlsInit.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(AuthDataShared.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DcAuthManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(HttpTransport.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(TlsReaderByteFlow.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(TcpTransport.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DcOptionsSet.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileGcWorker.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(NotificationType.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DraftMessage.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SequenceDispatcher.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(ReplyMarkup.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(MessageContent.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Game.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(InputMessageText.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileGenerateManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileLoadManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileLoaderUtils.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SecureStorage.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Session.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Contact.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(QueryCombiner.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileBitmask.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(BackgroundType.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DhHandshake.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DhCache.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(crypto.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileEncryptionKey.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Document.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(NetActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SendCodeHelper.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Handshake.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(HandshakeActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(ProxySecret.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(secret_api.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(VideoNotesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(VideosManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(VoiceNotesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(WebPagesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(StorageManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(TdDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(TopDialogManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(UpdatesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SecretChatsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SecureValue.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(SecureManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(StickersManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Payments.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(PhoneNumberManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(PollManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(PrivacyManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(NetStatsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(PublicRsaKeyShared.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(NotificationManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(PasswordManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(misc.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(IStreamTransport.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(ConnectionCreator.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(NetQueryDispatcher.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(LanguagePackManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Logging.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(NotificationSettings.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(MessagesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(HashtagHints.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(InlineQueriesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(JsonValue.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileStats.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(NetQueryCreator.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Global.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Location.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DeviceTokenManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DocumentsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileReferenceManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(FileGcParameters.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(ConfigManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(ConfigShared.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(DialogParticipant.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(ContactsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(BackgroundManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(CallbackQueriesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(CallActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(CallManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(AnimationsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(AudiosManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(AuthManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(AutoDownloadSettings.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(telegram_api.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(MessageEntity.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(TermsOfService.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Photo.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(MtprotoHeader.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(utils.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(NetQuery.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(StateManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdclient.lib(Client.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(td_api.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Td.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdcore.lib(Proxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+tdutils.lib(StdStreams.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(translit.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(PollFlags.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(WineventPoll.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(find_boundary.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(wstring_convert.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(Stat.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(FileFd.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(FileLog.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(GzipByteFlow.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(HttpUrl.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(JsonBuilder.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(Hints.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(Gzip.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(path.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(Timer.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(unicode.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(base64.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(SocketFd.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(Random.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(filesystem.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(MimeType.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(utf8.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(tl_parsers.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(BigNum.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(IPAddress.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(crypto.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(Status.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(misc.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(buffer.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(NativeFd.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(ThreadIdGuard.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(EventFdWindows.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(Iocp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(check.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(StringBuilder.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(thread_local.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(logging.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdactor.lib(Scheduler.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdactor.lib(ConcurrentScheduler.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdactor.lib(Timeout.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdactor.lib(MultiPromise.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(SqliteKeyValueAsync.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(RawSqliteDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(BinlogEventsBuffer.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(BinlogEventsProcessor.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(SqliteDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(Binlog.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(ConcurrentBinlog.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(SqliteConnectionSafe.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(HttpOutboundConnection.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(BinlogEvent.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(SqliteKeyValue.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tddb.lib(SqliteStatement.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(HttpProxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(Socks5.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(SslStream.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(HttpConnectionBase.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(TransparentProxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(HttpChunkedByteFlow.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(HttpContentLengthByteFlow.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(HttpReader.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(HttpFile.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(HttpQuery.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(Wget.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdnet.lib(GetHostByNameActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SessionProxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileLoader.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(PartsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DelayDispatcher.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileFromBytes.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileHashUploader.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileUploader.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(PingConnection.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(AuthData.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SessionConnection.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(ResourceManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileDownloader.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(MessagesDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(WebPageBlock.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(RawConnection.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Transport.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SecretChatActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileStatsWorker.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DialogDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(NetQueryDelayer.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(PublicRsaKeyWatchdog.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SessionMultiProxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(mtproto_api.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Ping.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(TlsInit.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(AuthDataShared.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DcAuthManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(HttpTransport.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(TlsReaderByteFlow.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(TcpTransport.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DcOptionsSet.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileGcWorker.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(NotificationType.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DraftMessage.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SequenceDispatcher.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(ReplyMarkup.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(MessageContent.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Game.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(InputMessageText.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileGenerateManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileLoadManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileLoaderUtils.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SecureStorage.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Session.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Contact.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(QueryCombiner.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileBitmask.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(BackgroundType.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DhHandshake.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DhCache.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(crypto.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileEncryptionKey.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Document.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(NetActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SendCodeHelper.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Handshake.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(HandshakeActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(ProxySecret.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(secret_api.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(VideoNotesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(VideosManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(VoiceNotesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(WebPagesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(StorageManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(TdDb.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(TopDialogManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(UpdatesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SecretChatsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SecureValue.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(SecureManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(StickersManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Payments.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(PhoneNumberManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(PollManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(PrivacyManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(NetStatsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(PublicRsaKeyShared.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(NotificationManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(PasswordManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(misc.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(IStreamTransport.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(ConnectionCreator.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(NetQueryDispatcher.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(LanguagePackManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Logging.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(NotificationSettings.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(MessagesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(HashtagHints.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(InlineQueriesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(JsonValue.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileStats.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(NetQueryCreator.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Global.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Location.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DeviceTokenManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DocumentsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileReferenceManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(FileGcParameters.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(ConfigManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(ConfigShared.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(DialogParticipant.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(ContactsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(BackgroundManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(CallbackQueriesManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(CallActor.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(CallManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(AnimationsManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(AudiosManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(AuthManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(AutoDownloadSettings.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(telegram_api.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(MessageEntity.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(TermsOfService.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Photo.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(MtprotoHeader.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(utils.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(NetQuery.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(StateManager.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdclient.lib(Client.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(td_api.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Td.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdcore.lib(Proxy.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+tdutils.lib(StringBuilder.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+tdutils.lib(misc.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+D:\MyPrj\Telegramm\td_prj\TestDLL\ConsoleApplication2\build\x64\Release\TestDLL.dll : fatal error LNK1120: неразрешенных внешних элементов: 3

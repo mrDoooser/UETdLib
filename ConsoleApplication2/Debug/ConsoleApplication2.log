@@ -1,0 +1,14 @@
+﻿  ConsoleApplication2.cpp
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol "public: __thiscall td::Client::Client(void)" (??0Client@td@@QAE@XZ) referenced in function _main
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol "public: __thiscall td::Client::~Client(void)" (??1Client@td@@QAE@XZ) referenced in function _main
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tdactor.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tdcore.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tddb.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tdjson_private.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tdjson_static.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tdnet.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tdsqlite.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tdutils.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tdjson.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\lib\tdclient.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\Debug\ConsoleApplication2.exe : fatal error LNK1120: 2 unresolved externals

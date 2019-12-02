@@ -1,0 +1,10 @@
+^D:\MYPRJ\TELEGRAMM\TD_PRJ\CONSOLEAPPLICATION2\CONSOLEAPPLICATION2\BUILD\CMAKEFILES\866CB11AC42D6A0D2A983427C94CEEDA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/MyPrj/Telegramm/td_prj/ConsoleApplication2/ConsoleApplication2 -BD:/MyPrj/Telegramm/td_prj/ConsoleApplication2/ConsoleApplication2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/MyPrj/Telegramm/td_prj/ConsoleApplication2/ConsoleApplication2/build/TdExample.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

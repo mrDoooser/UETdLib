@@ -1,0 +1,3 @@
+D:/MyPrj/Telegramm/td_prj/ConsoleApplication2/ConsoleApplication2/build/CMakeFiles/td_example.dir
+D:/MyPrj/Telegramm/td_prj/ConsoleApplication2/ConsoleApplication2/build/CMakeFiles/ALL_BUILD.dir
+D:/MyPrj/Telegramm/td_prj/ConsoleApplication2/ConsoleApplication2/build/CMakeFiles/ZERO_CHECK.dir

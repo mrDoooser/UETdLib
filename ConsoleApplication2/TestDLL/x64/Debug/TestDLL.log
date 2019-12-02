@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  TestClass.cpp
+  Создание кода...
+dllmain.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:ICF"
+     Создается библиотека D:\MyPrj\Telegramm\td_prj\TestDLL\ConsoleApplication2\build\x64\Debug\TestDLL.lib и объект D:\MyPrj\Telegramm\td_prj\TestDLL\ConsoleApplication2\build\x64\Debug\TestDLL.exp
+  TestDLL.vcxproj -> D:\MyPrj\Telegramm\td_prj\TestDLL\ConsoleApplication2\build\x64\Debug\TestDLL.dll

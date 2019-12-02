@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\MyPrj\Telegramm\td_prj\ConsoleApplication2\ConsoleApplication2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2CF3247B-7370-3218-B0FC-57C95574F8FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.h" />
+  </ItemGroup>
+</Project>
